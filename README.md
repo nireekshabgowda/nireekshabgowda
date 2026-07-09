@@ -27,12 +27,8 @@ Git • GitHub • VS Code
 Project	Description	Tech
 Event Management System	Event scheduling and database integration	Java, MySQL
 Credit Card Fraud Detection	ML model for fraud prediction	Python, ML
-IoT Air Quality Monitoring	Live dashboard with Firebase	React, Firebase
-📈 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nireekshabgowda&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nireekshabgowda&layout=compact&theme=tokyonight" />
-</p>
+IoT Air Quality Monitoring	Live dashboard with Firebase	React,                  Firebase
+📈GitHub Stats
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=nireekshabgowda&theme=tokyonight"/>
 </p>
@@ -58,3 +54,4 @@ HackerRank
 ![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)
 📧 nireekshagowda03@gmail.com
 ---
+</
