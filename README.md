@@ -46,7 +46,7 @@ System Design
 🏅 Competitive Programming
 LeetCode: https://leetcode.com/u/nireekshabgowda03/
 GeeksforGeeks
-HackerRank
+HackerRank.
 
 
 🤝 Connect
