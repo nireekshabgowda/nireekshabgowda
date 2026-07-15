@@ -38,14 +38,9 @@ Hi there 👋 I'm Nireeksha G B
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nireekshabgowda&theme=tokyo-night"/>
 </p>
-🌱 Currently Exploring
-AI Agents
-Agentic AI
-RAG Systems
-Kubernetes
-Cloud Native
-Distributed Systems
-System Design
+
+Currently Exploring: Advanced System Design, Microservices, Cloud Deployment with Spring Boot
+
 🏅 Competitive Programming
 LeetCode: https://leetcode.com/u/nireekshabgowda03/
 GeeksforGeeks
