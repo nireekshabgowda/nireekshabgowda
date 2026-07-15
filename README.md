@@ -1,7 +1,7 @@
 Hi there 👋 I'm Nireeksha G B
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=450&lines=Computer+Science+Engineer;Java+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=450&lines=Computer+Science+Engineer;Java+Full+Stack+Developer"/>
 </p>
 
 <p align="left">
