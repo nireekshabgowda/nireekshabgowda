@@ -32,9 +32,7 @@ Hi there 👋 I'm Nireeksha G B
 | **IoT Air Quality Monitoring** | Live dashboard with Firebase | React, Firebase |
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nireekshabgowda&theme=tokyonight" />
-</p>
+
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nireekshabgowda&theme=tokyo-night"/>
 </p>
