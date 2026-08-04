@@ -33,12 +33,10 @@ Hi there 👋 I'm Nireeksha G B
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nireekshabgowda&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nireekshabgowda&theme=tokyonight" alt="streak"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nireekshabgowda&theme=tokyo-night" alt="contribution graph"/>
 </p>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nireekshabgowda&theme=tokyo-night"/>
-</p>
-
 Currently Exploring: Advanced System Design, Microservices, Cloud Deployment with Spring Boot.
 
 🏅 Competitive Programming
