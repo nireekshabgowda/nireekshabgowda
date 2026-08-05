@@ -35,7 +35,7 @@ Hi there 👋 I'm Nireeksha G B
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nireekshabgowda&theme=tokyonight&v=2" alt="streak" />
   <br/>
-https://github-readme-activity-graph-lovat-zeta.vercel.app/graph?username=nireekshabgowda&theme=tokyo-night
+<img src="https://github-readme-activity-graph-lovat-zeta.vercel.app/graph?username=nireekshabgowda&theme=tokyo-night" alt="activity graph" />
 </p>
 Currently Exploring: Advanced System Design, Microservices, Cloud Deployment with Spring Boot.
 
