@@ -33,6 +33,8 @@ Hi there 👋 I'm Nireeksha G B
 
 ### 📈 GitHub Stats
 <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=nireekshabgowda&theme=tokyonight&show_icons=true&hide_border=true" alt="github stats" />
+  <br/><br/>
   <img src="https://github-readme-activity-graph-lovat-zeta.vercel.app/graph?username=nireekshabgowda&theme=tokyo-night" alt="activity graph" />
 </p>
 Currently Exploring: Advanced System Design, Microservices, Cloud Deployment with Spring Boot.
